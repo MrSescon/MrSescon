@@ -23,11 +23,11 @@
   <a href="https://nodejs.org/en/">![Node.js Badge](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)<a/>
   <a href="https://spring.io/projects/spring-boot">![Spring Badge](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=spring&logoColor=339933)<a/>
     
-- 💻 <b>Mobile</b>:
+<!-- - 💻 <b>Mobile</b>:
     </br>
   <a href="https://reactnative.dev///"> ![React Native Badge](https://img.shields.io/badge/-React_Native-black?&style=flat&logo=react&logoColor=61DAFB)<a/>
   <a href="https://expo.io/"> ![Expo Badge](https://img.shields.io/badge/-Expo-black?&style=flat&logo=expo&logoColor=4C35E3)<a/>
-  <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-black?&style=flat&logo=redux&logoColor=4C35E3)<a/>
+  <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-black?&style=flat&logo=redux&logoColor=4C35E3)<a/> -->
     
 - :gear: <b>Cloud</b>: 
     </br>
@@ -36,7 +36,6 @@
 - 🗄️ <b>Databases:</b>
     </br>
   <a href="https://www.postgresql.org/"> ![PostgreSQL Badge](https://img.shields.io/badge/-PostgresQL-black?style=flat&logo=postgresql&logoColor=blue)<a/>
-  <a href="https://www.postgresql.org/"> ![SQL Server Badge](https://img.shields.io/badge/-Microsoft_SQL_Server-black?style=flat&logo=microsoft&logoColor=blue)<a/>
   <a href="https://www.mongodb.com/"> ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=339933)<a/>
   <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> ![Oracle Badge](https://img.shields.io/badge/-Oracle11g-black?style=flat&logo=oracle&logoColor=c21325)<a/>
       
