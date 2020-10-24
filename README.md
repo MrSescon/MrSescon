@@ -5,7 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522988319470&text=Olá!)](https://api.whatsapp.com/send?phone=5522988319470&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:magnosescon@gmail.com)](mailto:magnosescon@gmail.com)
 
-#### Hi! I'm a Full-Stack Developer, below are some technologies I'm used to work with. Take a look!
+#### Salut!!! Je suis un Developeur Full-Stack et au-dessous les technologies que je suis habitué à utiliser. 
 
 - 💻 <b>Programming Languages</b>: 
     </br>
