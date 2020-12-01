@@ -24,7 +24,7 @@
   <a href="https://nodejs.org/en/">![Node.js Badge](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)<a/>
   <a href="https://spring.io/projects/spring-boot">![Spring Badge](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=spring&logoColor=339933)<a/>
   <a href="https://spring.io/projects/spring-security">![SpringSecurity Badge](https://img.shields.io/badge/-SpringSecurity-black?style=flat&logo=spring&logoColor=339933)<a/>
-  <a href="https://spring.io/projects/spring-data-jpa">![SpringDataJpa Badge](https://img.shields.io/badge/-SpringData Jpa-black?style=flat&logo=spring&logoColor=339933)<a/>
+  <a href="https://spring.io/projects/spring-data-jpa">![SpringDataJpa Badge](https://img.shields.io/badge/-SpringData-black?style=flat&logo=spring&logoColor=339933)<a/>
     
 <!-- - 💻 <b>Mobile</b>:
     </br>
@@ -38,7 +38,7 @@
     
 - 🗄️ <b>Databases:</b>
     </br>
-  <a href="https://www.postgresql.org/"> ![PostgreSQL Badge](https://img.shields.io/badge/-PostgresQL-black?style=flat&logo=postgresql&logoColor=blue)<a/>
+  <a href="https://www.postgresql.org/"> ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql&logoColor=blue)<a/>
   <a href="https://www.mongodb.com/"> ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&logoColor=339933)<a/>
   <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> ![Oracle Badge](https://img.shields.io/badge/-Oracle11g-black?style=flat&logo=oracle&logoColor=c21325)<a/>
       
