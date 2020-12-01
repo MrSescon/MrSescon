@@ -24,7 +24,7 @@
   <a href="https://nodejs.org/en/">![Node.js Badge](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=339933)<a/>
   <a href="https://spring.io/projects/spring-boot">![Spring Badge](https://img.shields.io/badge/-SpringBoot-black?style=flat&logo=spring&logoColor=339933)<a/>
   <a href="https://spring.io/projects/spring-security">![SpringSecurity Badge](https://img.shields.io/badge/-SpringSecurity-black?style=flat&logo=spring&logoColor=339933)<a/>
-  <a href="https://spring.io/projects/spring-data-jpa">![Spring-data-jpa Badge](https://img.shields.io/badge/-Spring-Data-Jpa-black?style=flat&logo=spring&logoColor=339933)<a/>
+  <a href="https://spring.io/projects/spring-data-jpa">![SpringDataJpa Badge](https://img.shields.io/badge/-SpringDataJpa-black?style=flat&logo=spring&logoColor=339933)<a/>
     
 <!-- - 💻 <b>Mobile</b>:
     </br>
