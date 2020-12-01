@@ -17,7 +17,7 @@
     </br>
   <a href="https://pt-br.reactjs.org//"> ![React Badge](https://img.shields.io/badge/-React-black?style=black&logo=react&logoColor=61DAFB)<a/> 
   <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-black?&style=flat&logo=redux&logoColor=4C35E3)<a/>
-  <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> ![Hooks Badge](https://img.shields.io/badge/-Hooks-black?&style=flat&logo=react&logoColor=4C35E3)<a/>
+  <a href="https://pt-br.reactjs.org/docs/hooks-intro.html"> ![Hooks Badge](https://img.shields.io/badge/-Hooks-black?&style=flat&logo=react&logoColor=61DAFB)<a/>
     
 - 💻 <b>Back-End</b>: 
     </br>
