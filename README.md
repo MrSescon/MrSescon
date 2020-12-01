@@ -28,7 +28,7 @@
     </br>
   <a href="https://reactnative.dev///"> ![React Native Badge](https://img.shields.io/badge/-React_Native-black?&style=flat&logo=react&logoColor=61DAFB)<a/>
   <a href="https://expo.io/"> ![Expo Badge](https://img.shields.io/badge/-Expo-black?&style=flat&logo=expo&logoColor=4C35E3)<a/>
-  <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-black?&style=flat&logo=redux&logoColor=4C35E3)<a/> -->
+  <a href="https://redux.js.org/"> ![Redux Badge](https://img.shields.io/badge/-Redux-black?&style=flat&logo=redux&logoColor=61DAFB)<a/> -->
     
 - :gear: <b>Cloud</b>: 
     </br>
